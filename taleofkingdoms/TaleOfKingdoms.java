@@ -36,7 +36,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.common.registry.TickRegistry;
 import cpw.mods.fml.relauncher.Side;
 
-@Mod(modid = "TaleOfKingdoms", version = "2.0.0", name = "Tale of Kingdoms 2")
+@Mod(modid = "TaleOfKingdoms", version = "1.0.0", name = "Tale of Kingdoms 2: Restarted")
 @NetworkMod(channels = { "TaleOfKingdoms" },clientSideRequired = true, serverSideRequired = true, packetHandler = PacketHandler.class)
 public class TaleOfKingdoms 
 {
